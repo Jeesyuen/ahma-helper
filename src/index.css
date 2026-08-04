@@ -1,0 +1,19 @@
+html {
+  font-size: 16px;
+  -webkit-text-size-adjust: 100%;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  outline: none;
+  font-family: inherit;
+}
+
+input, textarea {
+  font-family: inherit;
+}
+
+img {
+  max-width: 100%;
+}
