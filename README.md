@@ -76,8 +76,10 @@ npm install
 ```
 
 Create a `.env` file in the root:
-/nPaste the api key at VITE_ANTHROPIC_API_KEY=your_api_key_here
-/nRun the development server:
+
+Paste the api key at VITE_ANTHROPIC_API_KEY=your_api_key_here
+
+Run the development server:
 
 ```bash
 npm run dev
